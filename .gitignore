@@ -36,4 +36,5 @@ build/
 Vorlage/*.pdf
 Vorlage/anschreibenGen.tex
 Vorlage/cvGen.tex
+*Gen*.tex
 tmp/
